@@ -11,6 +11,8 @@ Next, clone this repo:
 
 $
 
+```
+
 ## Project setup
 
 You should be inside the project directory
